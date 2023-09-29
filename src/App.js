@@ -1,12 +1,8 @@
-import React, { Component } from "react";
-
 function App() {
   return (
-    <div>
-      <h1>new react</h1>
-      <p>this is a new react project</p>
-    </div>
+    <>
+      <h1>Hello, world!</h1>
+    </>
   );
 }
-
 export default App;
